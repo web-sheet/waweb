@@ -15,5 +15,8 @@
       "src": "/(.*)",
       "dest": "/public/index.html"
     }
-  ]
+  ],
+  "env": {
+    "PORT": "3000"
+  }
 }
