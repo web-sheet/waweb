@@ -1,0 +1,21 @@
+{
+  "name": "whatsappwebjs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "node-fetch": "^3.3.2",
+    "qrcode": "^1.5.4",
+    "qrcode-generator": "^1.4.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
